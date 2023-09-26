@@ -24,10 +24,10 @@ metadata:
   tags:
     - api
     - tanzu
-spec:
-  type: openapi
-  lifecycle: experimental
-  owner: where-for-dinner-team
-  system: where-for-dinner
-  definition:
-    $text: https://where-for-dinner.perfect300rock.com/api/availability/v3/api-docs/
+# spec:
+#   type: openapi
+#   lifecycle: experimental
+#   owner: where-for-dinner-team
+#   system: where-for-dinner
+#   definition:
+#     $text: https://where-for-dinner.perfect300rock.com/api/availability/v3/api-docs/
